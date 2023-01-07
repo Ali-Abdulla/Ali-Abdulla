@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **elixir and phoenix**
 
-- 💬 Ask me about **bots and clients in telegram, discord, twitter and of course django**
+- 💬 Ask me about **bots and clients in Telegram, Discord, Twitter, and backend development on Django**
 
 - 📫 How to reach me **alexukr1999@gmail.com**, [twitter](https://twitter.com/boing_7_4_7)
 
