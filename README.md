@@ -21,7 +21,7 @@
 
 - devops: **docker, docker-compose, nginx**
 
-- db and orm: **sqlalchemy, postgresql, redis, alembic, mysql**
+- db and orm: **sqlalchemy, postgresql, redis, alembic, mysql, djangoORM**
 
 - data analysis and visualisation: **pandas, numpy, matplotlib, seaborn, scipy, scikit-learn**
 
