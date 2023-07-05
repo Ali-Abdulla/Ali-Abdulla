@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ali-Abdulla</h1>
 <h3 align="left">A backend developer from Ukraine, Kyiv</h3>
 
-- 🔭 I’m currently working on [amba-labs](https://beta.ambalabs.io/welcome)
+- 🔭 I’m currently working on [ODB](https://onedaybundle.com/)
 
 - 🌱 I’m currently learning **elixir and phoenix**
 
